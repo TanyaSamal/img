@@ -1,0 +1,596 @@
+[
+  {
+    "name": "Yellow star",
+		"count": 9,
+		"year": 1965,
+		"shape": "star",
+		"color": "yellow",
+		"size": "small",
+		"favorite": true
+  },
+	{
+    "name": "Two bells",
+		"count": 4,
+		"year": 1989,
+		"shape": "bells",
+		"color": "gold",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "Big snowman",
+		"count": 7,
+		"year": 1973,
+		"shape": "snowman",
+		"color": "white",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "Red candle",
+		"count": 11,
+		"year": 1953,
+		"shape": "candle",
+		"color": "red",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "Gingerbread in hat",
+		"count": 3,
+		"year": 1982,
+		"shape": "gingerbread",
+		"color": "brown",
+		"size": "medium",
+		"favorite": true
+  },
+	{
+    "name": "Purple star",
+		"count": 6,
+		"year": 1955,
+		"shape": "star",
+		"color": "purple",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "Gingerbread bell",
+		"count": 4,
+		"year": 1978,
+		"shape": "bells",
+		"color": "brown",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "Medium snowman",
+		"count": 2,
+		"year": 1980,
+		"shape": "snowman",
+		"color": "white",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "Red ball with stars",
+		"count": 8,
+		"year": 1960,
+		"shape": "ball",
+		"color": "red",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "Santa Claus",
+		"count": 5,
+		"year": 1951,
+		"shape": "santa",
+		"color": "red",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "Blue star",
+		"count": 3,
+		"year": 1964,
+		"shape": "star",
+		"color": "blue",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "One bell",
+		"count": 10,
+		"year": 1970,
+		"shape": "bells",
+		"color": "gold",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "Blue candle",
+		"count": 1,
+		"year": 1944,
+		"shape": "candle",
+		"color": "blue",
+		"size": "big",
+		"favorite": true
+  },
+	{
+    "name": "Gingerbread in jacket",
+		"count": 7,
+		"year": 1977 ,
+		"shape": "gingerbread",
+		"color": "brown",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "Red star",
+		"count": 12,
+		"year": 1979,
+		"shape": "star",
+		"color": "red",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "Dotted purple ball",
+		"count": 3,
+		"year": 1949,
+		"shape": "ball",
+		"color": "purple",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "Venzel ball",
+		"count": 9,
+		"year": 1982,
+		"shape": "ball",
+		"color": "red",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "Red present",
+		"count": 2,
+		"year": 1964,
+		"shape": "present",
+		"color": "red",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "Deer gingerbread",
+		"count": 1,
+		"year": 1979,
+		"shape": "gingerbread",
+		"color": "brown",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "Light blue star",
+		"count": 5,
+		"year": 1981,
+		"shape": "star",
+		"color": "blue",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "Yellow candle",
+		"count": 6,
+		"year": 1967,
+		"shape": "candle",
+		"color": "yellow",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "Green ball",
+		"count": 5,
+		"year": 1955,
+		"shape": "ball",
+		"color": "green",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "Dark green ball",
+		"count": 3,
+		"year": 1945,
+		"shape": "ball",
+		"color": "green",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "White present",
+		"count": 3,
+		"year": 1966,
+		"shape": "present",
+		"color": "white",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "Gingerbread snowflake",
+		"count": 4,
+		"year": 1976,
+		"shape": "gingerbread",
+		"color": "brown",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "Red bell",
+		"count": 6,
+		"year": 1977,
+		"shape": "bells",
+		"color": "red",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "Sweet candy",
+		"count": 6,
+		"year": 1982,
+		"shape": "candy",
+		"color": "red",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "White and red stocking",
+		"count": 2,
+		"year": 1977,
+		"shape": "stocking",
+		"color": "red",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "Orange star",
+		"count": 6,
+		"year": 1978,
+		"shape": "star",
+		"color": "gold",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "White ball with stars",
+		"count": 2,
+		"year": 1944,
+		"shape": "ball",
+		"color": "white",
+		"size": "big",
+		"favorite": true
+  },
+	{
+    "name": "White ball with lines",
+		"count": 6,
+		"year": 1950,
+		"shape": "ball",
+		"color": "white",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "Bird gingerbread",
+		"count": 1,
+		"year": 1978,
+		"shape": "bird",
+		"color": "brown",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "Blue lined ball",
+		"count": 12,
+		"year": 1979,
+		"shape": "ball",
+		"color": "blue",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "Blue ball with snowflakes",
+		"count": 4,
+		"year": 1949,
+		"shape": "ball",
+		"color": "blue",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "Golden star",
+		"count": 1,
+		"year": 1960,
+		"shape": "star",
+		"color": "gold",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "Blue bell",
+		"count": 2,
+		"year": 1958,
+		"shape": "bells",
+		"color": "blue",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "Gingerbread home",
+		"count": 3,
+		"year": 1954,
+		"shape": "gingerbread",
+		"color": "brown",
+		"size": "big",
+		"favorite": true
+  },
+	{
+    "name": "Silver ball",
+		"count": 5,
+		"year": 1955,
+		"shape": "ball",
+		"color": "silver",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "Silver bell with snowflakes",
+		"count": 6,
+		"year": 1950,
+		"shape": "ball",
+		"color": "silver",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "Green and gold ball",
+		"count": 4,
+		"year": 1968,
+		"shape": "ball",
+		"color": "green",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "Purple ball",
+		"count": 1,
+		"year": 1964,
+		"shape": "ball",
+		"color": "purple",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "Purple ball with hole",
+		"count": 3,
+		"year": 1955,
+		"shape": "ball",
+		"color": "purple",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "Blue ball with deer",
+		"count": 2,
+		"year": 1961,
+		"shape": "ball",
+		"color": "blue",
+		"size": "big",
+		"favorite": true
+  },
+	{
+    "name": "Shining star",
+		"count": 1,
+		"year": 1967,
+		"shape": "star",
+		"color": "gold",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "Purple bell",
+		"count": 10,
+		"year": 1988,
+		"shape": "bells",
+		"color": "purple",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "Red and gold lined ball",
+		"count": 6,
+		"year": 1966,
+		"shape": "ball",
+		"color": "red",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "Gingerbread tree",
+		"count": 1,
+		"year": 1977,
+		"shape": "gingerbread",
+		"color": "brown",
+		"size": "big",
+		"favorite": true
+  },
+	{
+    "name": "Love candy",
+		"count": 5,
+		"year": 1956,
+		"shape": "candy",
+		"color": "white",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "Round candy",
+		"count": 2,
+		"year": 1988,
+		"shape": "candy",
+		"color": "white",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "Candy on a stick",
+		"count": 4,
+		"year": 1976,
+		"shape": "candy",
+		"color": "white",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "Gingerbread snowflake with green",
+		"count": 4,
+		"year": 1972,
+		"shape": "gingerbread",
+		"color": "brown",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "Dark purple ball",
+		"count": 7,
+		"year": 1953,
+		"shape": "ball",
+		"color": "purple",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "Present in bag",
+		"count": 3,
+		"year": 1949,
+		"shape": "present",
+		"color": "red",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "Beautiful ball",
+		"count": 6,
+		"year": 1963,
+		"shape": "ball",
+		"color": "blue",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "Amazing ball",
+		"count": 3,
+		"year": 1948,
+		"shape": "ball",
+		"color": "gold",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "Gingerbread snowflake-star",
+		"count": 3,
+		"year": 1965,
+		"shape": "gingerbread",
+		"color": "brown",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "Little golden star",
+		"count": 7,
+		"year": 1967,
+		"shape": "star",
+		"color": "gold",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "Cool ball",
+		"count": 4,
+		"year": 1978,
+		"shape": "ball",
+		"color": "red",
+		"size": "small",
+		"favorite": false
+  },
+	{
+    "name": "Red and green stocking",
+		"count": 2,
+		"year": 1969,
+		"shape": "stocking",
+		"color": "red",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "Adult deer",
+		"count": 2,
+		"year": 1978,
+		"shape": "deer",
+		"color": "red",
+		"size": "big",
+		"favorite": false
+  },
+	{
+    "name": "Young deer",
+		"count": 1,
+		"year": 1945,
+		"shape": "deer",
+		"color": "brown",
+		"size": "medium",
+		"favorite": true
+  },
+	{
+    "name": "Hunny angel",
+		"count": 1,
+		"year": 1976,
+		"shape": "angel",
+		"color": "white",
+		"size": "big",
+		"favorite": true
+  },
+	{
+    "name": "Cute ball",
+		"count": 4,
+		"year": 1955,
+		"shape": "ball",
+		"color": "green",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "New ball",
+		"count": 4,
+		"year": 1955,
+		"shape": "ball",
+		"color": "blue",
+		"size": "medium",
+		"favorite": false
+  },
+	{
+    "name": "Favorite ball",
+		"count": 4,
+		"year": 1965,
+		"shape": "ball",
+		"color": "blue",
+		"size": "medium",
+		"favorite": true
+	},
+	{
+		"name": "Little bird",
+		"count": 2,
+		"year": 1966,
+		"shape": "bird",
+		"color": "brown",
+		"size": "big",
+		"favorite": false
+  }
+]
