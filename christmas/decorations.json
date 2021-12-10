@@ -13,7 +13,7 @@
 		"count": 4,
 		"year": 1989,
 		"shape": "bells",
-		"color": "gold",
+		"color": "yellow",
 		"size": "medium",
 		"favorite": false
   },
@@ -103,7 +103,7 @@
 		"count": 10,
 		"year": 1970,
 		"shape": "bells",
-		"color": "gold",
+		"color": "yellow",
 		"size": "medium",
 		"favorite": false
   },
@@ -256,7 +256,7 @@
 		"count": 6,
 		"year": 1978,
 		"shape": "star",
-		"color": "gold",
+		"color": "yellow",
 		"size": "small",
 		"favorite": false
   },
@@ -306,11 +306,11 @@
 		"favorite": false
   },
 	{
-    "name": "Golden star",
+    "name": "yellowen star",
 		"count": 1,
 		"year": 1960,
 		"shape": "star",
-		"color": "gold",
+		"color": "yellow",
 		"size": "medium",
 		"favorite": false
   },
@@ -351,7 +351,7 @@
 		"favorite": false
   },
 	{
-    "name": "Green and gold ball",
+    "name": "Green and yellow ball",
 		"count": 4,
 		"year": 1968,
 		"shape": "ball",
@@ -391,7 +391,7 @@
 		"count": 1,
 		"year": 1967,
 		"shape": "star",
-		"color": "gold",
+		"color": "yellow",
 		"size": "big",
 		"favorite": false
   },
@@ -405,7 +405,7 @@
 		"favorite": false
   },
 	{
-    "name": "Red and gold lined ball",
+    "name": "Red and yellow lined ball",
 		"count": 6,
 		"year": 1966,
 		"shape": "ball",
@@ -490,7 +490,7 @@
 		"count": 3,
 		"year": 1948,
 		"shape": "ball",
-		"color": "gold",
+		"color": "yellow",
 		"size": "small",
 		"favorite": false
   },
@@ -504,11 +504,11 @@
 		"favorite": false
   },
 	{
-    "name": "Little golden star",
+    "name": "Little yellowen star",
 		"count": 7,
 		"year": 1967,
 		"shape": "star",
-		"color": "gold",
+		"color": "yellow",
 		"size": "small",
 		"favorite": false
   },
@@ -603,11 +603,11 @@
 		"favorite": false
   },
   	{
-		"name": "Golden cone",
+		"name": "yellowen cone",
 		"count": 8,
 		"year": 1995,
 		"shape": "figurine",
-		"color": "gold",
+		"color": "yellow",
 		"size": "mediun",
 		"favorite": false
   }
