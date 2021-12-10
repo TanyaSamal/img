@@ -450,7 +450,7 @@
 		"favorite": false
   },
 	{
-    "name": "Gingerbread snowflake with green",
+    "name": "Green gingerbread snowflake",
 		"count": 4,
 		"year": 1972,
 		"shape": "snowflake",
@@ -591,6 +591,24 @@
 		"shape": "figurine",
 		"color": "brown",
 		"size": "small",
+		"favorite": false
+  },
+  	{
+		"name": "Yellow ball with bow",
+		"count": 6,
+		"year": 1990,
+		"shape": "ball",
+		"color": "yellow",
+		"size": "big",
+		"favorite": false
+  },
+  	{
+		"name": "Golden cone",
+		"count": 8,
+		"year": 1995,
+		"shape": "figurine",
+		"color": "gold",
+		"size": "mediun",
 		"favorite": false
   }
 ]
