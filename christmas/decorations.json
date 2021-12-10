@@ -21,7 +21,7 @@
     "name": "Big snowman",
 		"count": 7,
 		"year": 1973,
-		"shape": "snowman",
+		"shape": "figurine",
 		"color": "white",
 		"size": "big",
 		"favorite": false
@@ -39,7 +39,7 @@
     "name": "Gingerbread in hat",
 		"count": 3,
 		"year": 1982,
-		"shape": "gingerbread",
+		"shape": "figurine",
 		"color": "brown",
 		"size": "medium",
 		"favorite": true
@@ -66,7 +66,7 @@
     "name": "Medium snowman",
 		"count": 2,
 		"year": 1980,
-		"shape": "snowman",
+		"shape": "figurine",
 		"color": "white",
 		"size": "medium",
 		"favorite": false
@@ -84,7 +84,7 @@
     "name": "Santa Claus",
 		"count": 5,
 		"year": 1951,
-		"shape": "santa",
+		"shape": "figurine",
 		"color": "red",
 		"size": "small",
 		"favorite": false
@@ -120,7 +120,7 @@
     "name": "Gingerbread in jacket",
 		"count": 7,
 		"year": 1977 ,
-		"shape": "gingerbread",
+		"shape": "figurine",
 		"color": "brown",
 		"size": "medium",
 		"favorite": false
@@ -156,7 +156,7 @@
     "name": "Red present",
 		"count": 2,
 		"year": 1964,
-		"shape": "present",
+		"shape": "figurine",
 		"color": "red",
 		"size": "big",
 		"favorite": false
@@ -165,7 +165,7 @@
     "name": "Deer gingerbread",
 		"count": 1,
 		"year": 1979,
-		"shape": "gingerbread",
+		"shape": "figurine",
 		"color": "brown",
 		"size": "big",
 		"favorite": false
@@ -210,7 +210,7 @@
     "name": "White present",
 		"count": 3,
 		"year": 1966,
-		"shape": "present",
+		"shape": "figurine",
 		"color": "white",
 		"size": "medium",
 		"favorite": false
@@ -219,16 +219,16 @@
     "name": "Gingerbread snowflake",
 		"count": 4,
 		"year": 1976,
-		"shape": "gingerbread",
+		"shape": "snowflake",
 		"color": "brown",
 		"size": "big",
 		"favorite": false
   },
 	{
-    "name": "Red bell",
+    "name": "Red bow",
 		"count": 6,
 		"year": 1977,
-		"shape": "bells",
+		"shape": "figurine",
 		"color": "red",
 		"size": "small",
 		"favorite": false
@@ -237,7 +237,7 @@
     "name": "Sweet candy",
 		"count": 6,
 		"year": 1982,
-		"shape": "candy",
+		"shape": "figurine",
 		"color": "red",
 		"size": "big",
 		"favorite": false
@@ -246,7 +246,7 @@
     "name": "White and red stocking",
 		"count": 2,
 		"year": 1977,
-		"shape": "stocking",
+		"shape": "figurine",
 		"color": "red",
 		"size": "big",
 		"favorite": false
@@ -282,7 +282,7 @@
     "name": "Bird gingerbread",
 		"count": 1,
 		"year": 1978,
-		"shape": "bird",
+		"shape": "figurine",
 		"color": "brown",
 		"size": "small",
 		"favorite": false
@@ -315,10 +315,10 @@
 		"favorite": false
   },
 	{
-    "name": "Blue bell",
+    "name": "Blue ball",
 		"count": 2,
 		"year": 1958,
-		"shape": "bells",
+		"shape": "ball",
 		"color": "blue",
 		"size": "small",
 		"favorite": false
@@ -327,7 +327,7 @@
     "name": "Gingerbread home",
 		"count": 3,
 		"year": 1954,
-		"shape": "gingerbread",
+		"shape": "figurine",
 		"color": "brown",
 		"size": "big",
 		"favorite": true
@@ -342,7 +342,7 @@
 		"favorite": false
   },
 	{
-    "name": "Silver bell with snowflakes",
+    "name": "Silver ball with snowflakes",
 		"count": 6,
 		"year": 1950,
 		"shape": "ball",
@@ -396,10 +396,10 @@
 		"favorite": false
   },
 	{
-    "name": "Purple bell",
+    "name": "Purple bow",
 		"count": 10,
 		"year": 1988,
-		"shape": "bells",
+		"shape": "figurine",
 		"color": "purple",
 		"size": "small",
 		"favorite": false
@@ -417,7 +417,7 @@
     "name": "Gingerbread tree",
 		"count": 1,
 		"year": 1977,
-		"shape": "gingerbread",
+		"shape": "figurine",
 		"color": "brown",
 		"size": "big",
 		"favorite": true
@@ -426,7 +426,7 @@
     "name": "Love candy",
 		"count": 5,
 		"year": 1956,
-		"shape": "candy",
+		"shape": "figurine",
 		"color": "white",
 		"size": "medium",
 		"favorite": false
@@ -435,7 +435,7 @@
     "name": "Round candy",
 		"count": 2,
 		"year": 1988,
-		"shape": "candy",
+		"shape": "figurine",
 		"color": "white",
 		"size": "big",
 		"favorite": false
@@ -444,7 +444,7 @@
     "name": "Candy on a stick",
 		"count": 4,
 		"year": 1976,
-		"shape": "candy",
+		"shape": "figurine",
 		"color": "white",
 		"size": "small",
 		"favorite": false
@@ -453,7 +453,7 @@
     "name": "Gingerbread snowflake with green",
 		"count": 4,
 		"year": 1972,
-		"shape": "gingerbread",
+		"shape": "snowflake",
 		"color": "brown",
 		"size": "big",
 		"favorite": false
@@ -471,7 +471,7 @@
     "name": "Present in bag",
 		"count": 3,
 		"year": 1949,
-		"shape": "present",
+		"shape": "figurine",
 		"color": "red",
 		"size": "big",
 		"favorite": false
@@ -498,7 +498,7 @@
     "name": "Gingerbread snowflake-star",
 		"count": 3,
 		"year": 1965,
-		"shape": "gingerbread",
+		"shape": "snowflake",
 		"color": "brown",
 		"size": "big",
 		"favorite": false
@@ -525,7 +525,7 @@
     "name": "Red and green stocking",
 		"count": 2,
 		"year": 1969,
-		"shape": "stocking",
+		"shape": "figurine",
 		"color": "red",
 		"size": "medium",
 		"favorite": false
@@ -534,7 +534,7 @@
     "name": "Adult deer",
 		"count": 2,
 		"year": 1978,
-		"shape": "deer",
+		"shape": "figurine",
 		"color": "red",
 		"size": "big",
 		"favorite": false
@@ -543,7 +543,7 @@
     "name": "Young deer",
 		"count": 1,
 		"year": 1945,
-		"shape": "deer",
+		"shape": "figurine",
 		"color": "brown",
 		"size": "medium",
 		"favorite": true
@@ -552,7 +552,7 @@
     "name": "Hunny angel",
 		"count": 1,
 		"year": 1976,
-		"shape": "angel",
+		"shape": "figurine",
 		"color": "white",
 		"size": "big",
 		"favorite": true
@@ -588,9 +588,9 @@
 		"name": "Little bird",
 		"count": 2,
 		"year": 1966,
-		"shape": "bird",
+		"shape": "figurine",
 		"color": "brown",
-		"size": "big",
+		"size": "small",
 		"favorite": false
   }
 ]
