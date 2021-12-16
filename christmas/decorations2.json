@@ -1,0 +1,1364 @@
+{
+	"ru": [{
+			"id": 1,
+			"name": "Желтая звезда",
+			"count": 9,
+			"year": 1965,
+			"shape": "звезда",
+			"color": "желтый",
+			"size": "маленький",
+			"favorite": true
+		},
+		{
+			"id": 2,
+			"name": "Два колокольчика",
+			"count": 4,
+			"year": 1989,
+			"shape": "колокольчик",
+			"color": "желтый",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 3,
+			"name": "Большой снеговик",
+			"count": 7,
+			"year": 1973,
+			"shape": "фигурка",
+			"color": "белый",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 4,
+			"name": "Красная свеча",
+			"count": 11,
+			"year": 1953,
+			"shape": "свеча",
+			"color": "красный",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 5,
+			"name": "Пряничный человечек в шляпе",
+			"count": 3,
+			"year": 1982,
+			"shape": "фигурка",
+			"color": "коричневый",
+			"size": "средний",
+			"favorite": true
+		},
+		{
+			"id": 6,
+			"name": "Фиолетовая звезда",
+			"count": 6,
+			"year": 1955,
+			"shape": "звезда",
+			"color": "фиолетовый",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 7,
+			"name": "Пряничный колокольчик",
+			"count": 4,
+			"year": 1978,
+			"shape": "колокольчик",
+			"color": "коричневый",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 8,
+			"name": "Средний снеговик",
+			"count": 2,
+			"year": 1980,
+			"shape": "фигурка",
+			"color": "белый",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 9,
+			"name": "Красный шар со звездами",
+			"count": 8,
+			"year": 1960,
+			"shape": "шар",
+			"color": "красный",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 10,
+			"name": "Санта Клаус",
+			"count": 5,
+			"year": 1951,
+			"shape": "фигурка",
+			"color": "красный",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 11,
+			"name": "Синяя звезда",
+			"count": 3,
+			"year": 1964,
+			"shape": "звезда",
+			"color": "синий",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 12,
+			"name": "один колокольчик",
+			"count": 10,
+			"year": 1970,
+			"shape": "колокольчик",
+			"color": "желтый",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 13,
+			"name": "Синяя свеча",
+			"count": 1,
+			"year": 1944,
+			"shape": "свеча",
+			"color": "синий",
+			"size": "большой",
+			"favorite": true
+		},
+		{
+			"id": 14,
+			"name": "Пряничный человочек",
+			"count": 7,
+			"year": 1977,
+			"shape": "фигурка",
+			"color": "коричневый",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 15,
+			"name": "Красная звезда",
+			"count": 12,
+			"year": 1979,
+			"shape": "звезда",
+			"color": "красный",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 16,
+			"name": "Фиолетовый шар в горошек",
+			"count": 3,
+			"year": 1949,
+			"shape": "шар",
+			"color": "фиолетовый",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 17,
+			"name": "Шар с вензелями",
+			"count": 9,
+			"year": 1982,
+			"shape": "шар",
+			"color": "красный",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 18,
+			"name": "Красный подарок",
+			"count": 2,
+			"year": 1964,
+			"shape": "фигурка",
+			"color": "красный",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 19,
+			"name": "Пряничный олень",
+			"count": 1,
+			"year": 1979,
+			"shape": "фигурка",
+			"color": "коричневый",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 20,
+			"name": "Светлая синяя звезда",
+			"count": 5,
+			"year": 1981,
+			"shape": "звезда",
+			"color": "синий",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 21,
+			"name": "Желтая свеча",
+			"count": 6,
+			"year": 1967,
+			"shape": "свеча",
+			"color": "желтый",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 22,
+			"name": "Зеленый шар",
+			"count": 5,
+			"year": 1955,
+			"shape": "шар",
+			"color": "зеленый",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 23,
+			"name": "Темно-зеленый шар",
+			"count": 3,
+			"year": 1945,
+			"shape": "шар",
+			"color": "зеленый",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 24,
+			"name": "Белый подарок",
+			"count": 3,
+			"year": 1966,
+			"shape": "фигурка",
+			"color": "белый",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 25,
+			"name": "Пряничная снежинка",
+			"count": 4,
+			"year": 1976,
+			"shape": "снежинка",
+			"color": "коричневый",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 26,
+			"name": "Красная бабочка",
+			"count": 6,
+			"year": 1977,
+			"shape": "фигурка",
+			"color": "красный",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 27,
+			"name": "Сладкая конфета",
+			"count": 6,
+			"year": 1982,
+			"shape": "фигурка",
+			"color": "красный",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 28,
+			"name": "Красно-белый носок",
+			"count": 2,
+			"year": 1977,
+			"shape": "фигурка",
+			"color": "красный",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 29,
+			"name": "Оранжевая звезда",
+			"count": 6,
+			"year": 1978,
+			"shape": "звезда",
+			"color": "желтый",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 30,
+			"name": "Белый шар со звездами",
+			"count": 2,
+			"year": 1944,
+			"shape": "шар",
+			"color": "белый",
+			"size": "большой",
+			"favorite": true
+		},
+		{
+			"id": 31,
+			"name": "Белый шар с полосами",
+			"count": 6,
+			"year": 1950,
+			"shape": "шар",
+			"color": "белый",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 32,
+			"name": "Пряничная птица",
+			"count": 1,
+			"year": 1978,
+			"shape": "фигурка",
+			"color": "коричневый",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 33,
+			"name": "Синий шар в полоску",
+			"count": 12,
+			"year": 1979,
+			"shape": "шар",
+			"color": "синий",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 34,
+			"name": "Синий шар со снежинками",
+			"count": 4,
+			"year": 1949,
+			"shape": "шар",
+			"color": "синий",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 35,
+			"name": "Золотая звезда",
+			"count": 1,
+			"year": 1960,
+			"shape": "звезда",
+			"color": "желтый",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 36,
+			"name": "Синий шар",
+			"count": 2,
+			"year": 1958,
+			"shape": "шар",
+			"color": "синий",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 37,
+			"name": "Пряничный домик",
+			"count": 3,
+			"year": 1954,
+			"shape": "фигурка",
+			"color": "коричневый",
+			"size": "большой",
+			"favorite": true
+		},
+		{
+			"id": 38,
+			"name": "Серебряный шар",
+			"count": 5,
+			"year": 1955,
+			"shape": "шар",
+			"color": "серебряный",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 39,
+			"name": "Серебряный шар со снежинками",
+			"count": 6,
+			"year": 1950,
+			"shape": "шар",
+			"color": "серебряный",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 40,
+			"name": "Зелено-золотой шар",
+			"count": 4,
+			"year": 1968,
+			"shape": "шар",
+			"color": "зеленый",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 41,
+			"name": "Фиолетовый шар",
+			"count": 1,
+			"year": 1964,
+			"shape": "шар",
+			"color": "фиолетовый",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 42,
+			"name": "Фиолетовый шар с дырой",
+			"count": 3,
+			"year": 1955,
+			"shape": "шар",
+			"color": "фиолетовый",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 43,
+			"name": "Синий шар с оленем",
+			"count": 2,
+			"year": 1961,
+			"shape": "шар",
+			"color": "синий",
+			"size": "большой",
+			"favorite": true
+		},
+		{
+			"id": 44,
+			"name": "Сияющая звезда",
+			"count": 1,
+			"year": 1967,
+			"shape": "звезда",
+			"color": "желтый",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 45,
+			"name": "Фиолетовая бабочка",
+			"count": 10,
+			"year": 1988,
+			"shape": "фигурка",
+			"color": "фиолетовый",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 46,
+			"name": "Красно-золотой шар с линиями",
+			"count": 6,
+			"year": 1966,
+			"shape": "шар",
+			"color": "красный",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 47,
+			"name": "Пряничная ёлка",
+			"count": 1,
+			"year": 1977,
+			"shape": "фигурка",
+			"color": "зеленый",
+			"size": "большой",
+			"favorite": true
+		},
+		{
+			"id": 48,
+			"name": "Сердечко",
+			"count": 5,
+			"year": 1956,
+			"shape": "фигурка",
+			"color": "белый",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 49,
+			"name": "Круглая конфета",
+			"count": 2,
+			"year": 1988,
+			"shape": "фигурка",
+			"color": "белый",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 50,
+			"name": "Конфета на палочке",
+			"count": 4,
+			"year": 1976,
+			"shape": "фигурка",
+			"color": "желтый",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 51,
+			"name": "Зеленая пряничная снежинка",
+			"count": 4,
+			"year": 1972,
+			"shape": "снежинка",
+			"color": "коричневый",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 52,
+			"name": "Темно-фиолетовый шар",
+			"count": 7,
+			"year": 1953,
+			"shape": "шар",
+			"color": "фиолетовый",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 53,
+			"name": "Подарок в мешке",
+			"count": 3,
+			"year": 1949,
+			"shape": "фигурка",
+			"color": "красный",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 54,
+			"name": "Прекрасный шар",
+			"count": 6,
+			"year": 1963,
+			"shape": "шар",
+			"color": "красный",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 55,
+			"name": "Чудесный шар",
+			"count": 3,
+			"year": 1948,
+			"shape": "шар",
+			"color": "красный",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 56,
+			"name": "Пряничная снежинка-звезда",
+			"count": 3,
+			"year": 1965,
+			"shape": "снежинка",
+			"color": "коричневый",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 57,
+			"name": "Маленькая золотая звезда",
+			"count": 7,
+			"year": 1967,
+			"shape": "звезда",
+			"color": "желтый",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 58,
+			"name": "Классный шар",
+			"count": 4,
+			"year": 1978,
+			"shape": "шар",
+			"color": "желтый",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 59,
+			"name": "Красно-зеленый носок",
+			"count": 2,
+			"year": 1969,
+			"shape": "фигурка",
+			"color": "красный",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 60,
+			"name": "Взросный олень",
+			"count": 2,
+			"year": 1978,
+			"shape": "фигурка",
+			"color": "красный",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 61,
+			"name": "Молодой олень",
+			"count": 1,
+			"year": 1945,
+			"shape": "фигурка",
+			"color": "коричневый",
+			"size": "средний",
+			"favorite": true
+		},
+		{
+			"id": 62,
+			"name": "Сладкий ангел",
+			"count": 1,
+			"year": 1976,
+			"shape": "фигурка",
+			"color": "белый",
+			"size": "большой",
+			"favorite": true
+		},
+		{
+			"id": 63,
+			"name": "Милый шар",
+			"count": 4,
+			"year": 1955,
+			"shape": "шар",
+			"color": "желтый",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 64,
+			"name": "Новый шар",
+			"count": 4,
+			"year": 1955,
+			"shape": "шар",
+			"color": "зеленый",
+			"size": "средний",
+			"favorite": false
+		},
+		{
+			"id": 65,
+			"name": "Любимый шар",
+			"count": 4,
+			"year": 1965,
+			"shape": "шар",
+			"color": "синий",
+			"size": "средний",
+			"favorite": true
+		},
+		{
+			"id": 66,
+			"name": "Маленькая птичка",
+			"count": 2,
+			"year": 1966,
+			"shape": "фигурка",
+			"color": "коричневый",
+			"size": "маленький",
+			"favorite": false
+		},
+		{
+			"id": 67,
+			"name": "Желтый шар с бантиком",
+			"count": 6,
+			"year": 1990,
+			"shape": "шар",
+			"color": "желтый",
+			"size": "большой",
+			"favorite": false
+		},
+		{
+			"id": 68,
+			"name": "Золотая шишка",
+			"count": 8,
+			"year": 1995,
+			"shape": "фигурка",
+			"color": "желтый",
+			"size": "mediun",
+			"favorite": false
+		}
+	],
+	"en": [{
+			"id": 1,
+			"name": "Yellow star",
+			"count": 9,
+			"year": 1965,
+			"shape": "star",
+			"color": "yellow",
+			"size": "small",
+			"favorite": true
+		},
+		{
+			"id": 2,
+			"name": "Two bells",
+			"count": 4,
+			"year": 1989,
+			"shape": "bells",
+			"color": "yellow",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 3,
+			"name": "Big snowman",
+			"count": 7,
+			"year": 1973,
+			"shape": "figurine",
+			"color": "white",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 4,
+			"name": "Red candle",
+			"count": 11,
+			"year": 1953,
+			"shape": "candle",
+			"color": "red",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 5,
+			"name": "Gingerbread in hat",
+			"count": 3,
+			"year": 1982,
+			"shape": "figurine",
+			"color": "brown",
+			"size": "medium",
+			"favorite": true
+		},
+		{
+			"id": 6,
+			"name": "Purple star",
+			"count": 6,
+			"year": 1955,
+			"shape": "star",
+			"color": "purple",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 7,
+			"name": "Gingerbread bell",
+			"count": 4,
+			"year": 1978,
+			"shape": "bells",
+			"color": "brown",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 8,
+			"name": "Medium snowman",
+			"count": 2,
+			"year": 1980,
+			"shape": "figurine",
+			"color": "white",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 9,
+			"name": "Red ball with stars",
+			"count": 8,
+			"year": 1960,
+			"shape": "ball",
+			"color": "red",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 10,
+			"name": "Santa Claus",
+			"count": 5,
+			"year": 1951,
+			"shape": "figurine",
+			"color": "red",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 11,
+			"name": "Blue star",
+			"count": 3,
+			"year": 1964,
+			"shape": "star",
+			"color": "blue",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 12,
+			"name": "One bell",
+			"count": 10,
+			"year": 1970,
+			"shape": "bells",
+			"color": "yellow",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 13,
+			"name": "Blue candle",
+			"count": 1,
+			"year": 1944,
+			"shape": "candle",
+			"color": "blue",
+			"size": "big",
+			"favorite": true
+		},
+		{
+			"id": 14,
+			"name": "Gingerbread in jacket",
+			"count": 7,
+			"year": 1977,
+			"shape": "figurine",
+			"color": "brown",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 15,
+			"name": "Red star",
+			"count": 12,
+			"year": 1979,
+			"shape": "star",
+			"color": "red",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 16,
+			"name": "Dotted purple ball",
+			"count": 3,
+			"year": 1949,
+			"shape": "ball",
+			"color": "purple",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 17,
+			"name": "Venzel ball",
+			"count": 9,
+			"year": 1982,
+			"shape": "ball",
+			"color": "red",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 18,
+			"name": "Red present",
+			"count": 2,
+			"year": 1964,
+			"shape": "figurine",
+			"color": "red",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 19,
+			"name": "Deer gingerbread",
+			"count": 1,
+			"year": 1979,
+			"shape": "figurine",
+			"color": "brown",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 20,
+			"name": "Light blue star",
+			"count": 5,
+			"year": 1981,
+			"shape": "star",
+			"color": "blue",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 21,
+			"name": "Yellow candle",
+			"count": 6,
+			"year": 1967,
+			"shape": "candle",
+			"color": "yellow",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 22,
+			"name": "Green ball",
+			"count": 5,
+			"year": 1955,
+			"shape": "ball",
+			"color": "green",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 23,
+			"name": "Dark green ball",
+			"count": 3,
+			"year": 1945,
+			"shape": "ball",
+			"color": "green",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 24,
+			"name": "White present",
+			"count": 3,
+			"year": 1966,
+			"shape": "figurine",
+			"color": "white",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 25,
+			"name": "Gingerbread snowflake",
+			"count": 4,
+			"year": 1976,
+			"shape": "snowflake",
+			"color": "brown",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 26,
+			"name": "Red bow",
+			"count": 6,
+			"year": 1977,
+			"shape": "figurine",
+			"color": "red",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 27,
+			"name": "Sweet candy",
+			"count": 6,
+			"year": 1982,
+			"shape": "figurine",
+			"color": "red",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 28,
+			"name": "White and red stocking",
+			"count": 2,
+			"year": 1977,
+			"shape": "figurine",
+			"color": "red",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 29,
+			"name": "Orange star",
+			"count": 6,
+			"year": 1978,
+			"shape": "star",
+			"color": "yellow",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 30,
+			"name": "White ball with stars",
+			"count": 2,
+			"year": 1944,
+			"shape": "ball",
+			"color": "white",
+			"size": "big",
+			"favorite": true
+		},
+		{
+			"id": 31,
+			"name": "White ball with lines",
+			"count": 6,
+			"year": 1950,
+			"shape": "ball",
+			"color": "white",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 32,
+			"name": "Bird gingerbread",
+			"count": 1,
+			"year": 1978,
+			"shape": "figurine",
+			"color": "brown",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 33,
+			"name": "Blue lined ball",
+			"count": 12,
+			"year": 1979,
+			"shape": "ball",
+			"color": "blue",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 34,
+			"name": "Blue ball with snowflakes",
+			"count": 4,
+			"year": 1949,
+			"shape": "ball",
+			"color": "blue",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 35,
+			"name": "Golden star",
+			"count": 1,
+			"year": 1960,
+			"shape": "star",
+			"color": "yellow",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 36,
+			"name": "Blue ball",
+			"count": 2,
+			"year": 1958,
+			"shape": "ball",
+			"color": "blue",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 37,
+			"name": "Gingerbread home",
+			"count": 3,
+			"year": 1954,
+			"shape": "figurine",
+			"color": "brown",
+			"size": "big",
+			"favorite": true
+		},
+		{
+			"id": 38,
+			"name": "Silver ball",
+			"count": 5,
+			"year": 1955,
+			"shape": "ball",
+			"color": "silver",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 39,
+			"name": "Silver ball with snowflakes",
+			"count": 6,
+			"year": 1950,
+			"shape": "ball",
+			"color": "silver",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 40,
+			"name": "Green and gold ball",
+			"count": 4,
+			"year": 1968,
+			"shape": "ball",
+			"color": "green",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 41,
+			"name": "Purple ball",
+			"count": 1,
+			"year": 1964,
+			"shape": "ball",
+			"color": "purple",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 42,
+			"name": "Purple ball with hole",
+			"count": 3,
+			"year": 1955,
+			"shape": "ball",
+			"color": "purple",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 43,
+			"name": "Blue ball with deer",
+			"count": 2,
+			"year": 1961,
+			"shape": "ball",
+			"color": "blue",
+			"size": "big",
+			"favorite": true
+		},
+		{
+			"id": 44,
+			"name": "Shining star",
+			"count": 1,
+			"year": 1967,
+			"shape": "star",
+			"color": "yellow",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 45,
+			"name": "Purple bow",
+			"count": 10,
+			"year": 1988,
+			"shape": "figurine",
+			"color": "purple",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 46,
+			"name": "Red and gold lined ball",
+			"count": 6,
+			"year": 1966,
+			"shape": "ball",
+			"color": "red",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 47,
+			"name": "Gingerbread tree",
+			"count": 1,
+			"year": 1977,
+			"shape": "figurine",
+			"color": "green",
+			"size": "big",
+			"favorite": true
+		},
+		{
+			"id": 48,
+			"name": "Love candy",
+			"count": 5,
+			"year": 1956,
+			"shape": "figurine",
+			"color": "white",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 49,
+			"name": "Round candy",
+			"count": 2,
+			"year": 1988,
+			"shape": "figurine",
+			"color": "white",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 50,
+			"name": "Candy on a stick",
+			"count": 4,
+			"year": 1976,
+			"shape": "figurine",
+			"color": "yellow",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 51,
+			"name": "Green gingerbread snowflake",
+			"count": 4,
+			"year": 1972,
+			"shape": "snowflake",
+			"color": "brown",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 52,
+			"name": "Dark purple ball",
+			"count": 7,
+			"year": 1953,
+			"shape": "ball",
+			"color": "purple",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 53,
+			"name": "Present in bag",
+			"count": 3,
+			"year": 1949,
+			"shape": "figurine",
+			"color": "red",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 54,
+			"name": "Beautiful ball",
+			"count": 6,
+			"year": 1963,
+			"shape": "ball",
+			"color": "red",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 55,
+			"name": "Amazing ball",
+			"count": 3,
+			"year": 1948,
+			"shape": "ball",
+			"color": "red",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 56,
+			"name": "Gingerbread snowflake-star",
+			"count": 3,
+			"year": 1965,
+			"shape": "snowflake",
+			"color": "brown",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 57,
+			"name": "Little golden star",
+			"count": 7,
+			"year": 1967,
+			"shape": "star",
+			"color": "yellow",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 58,
+			"name": "Cool ball",
+			"count": 4,
+			"year": 1978,
+			"shape": "ball",
+			"color": "yellow",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 59,
+			"name": "Red and green stocking",
+			"count": 2,
+			"year": 1969,
+			"shape": "figurine",
+			"color": "red",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 60,
+			"name": "Adult deer",
+			"count": 2,
+			"year": 1978,
+			"shape": "figurine",
+			"color": "red",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 61,
+			"name": "Young deer",
+			"count": 1,
+			"year": 1945,
+			"shape": "figurine",
+			"color": "brown",
+			"size": "medium",
+			"favorite": true
+		},
+		{
+			"id": 62,
+			"name": "Hunny angel",
+			"count": 1,
+			"year": 1976,
+			"shape": "figurine",
+			"color": "white",
+			"size": "big",
+			"favorite": true
+		},
+		{
+			"id": 63,
+			"name": "Cute ball",
+			"count": 4,
+			"year": 1955,
+			"shape": "ball",
+			"color": "yellow",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 64,
+			"name": "New ball",
+			"count": 4,
+			"year": 1955,
+			"shape": "ball",
+			"color": "green",
+			"size": "medium",
+			"favorite": false
+		},
+		{
+			"id": 65,
+			"name": "Favorite ball",
+			"count": 4,
+			"year": 1965,
+			"shape": "ball",
+			"color": "blue",
+			"size": "medium",
+			"favorite": true
+		},
+		{
+			"id": 66,
+			"name": "Little bird",
+			"count": 2,
+			"year": 1966,
+			"shape": "figurine",
+			"color": "brown",
+			"size": "small",
+			"favorite": false
+		},
+		{
+			"id": 67,
+			"name": "Yellow ball with bow",
+			"count": 6,
+			"year": 1990,
+			"shape": "ball",
+			"color": "yellow",
+			"size": "big",
+			"favorite": false
+		},
+		{
+			"id": 68,
+			"name": "Golden cone",
+			"count": 8,
+			"year": 1995,
+			"shape": "figurine",
+			"color": "yellow",
+			"size": "mediun",
+			"favorite": false
+		}
+	]
+}
