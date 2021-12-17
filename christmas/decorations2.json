@@ -111,7 +111,7 @@
 		},
 		{
 			"id": 12,
-			"name": "один колокольчик",
+			"name": "Один колокольчик",
 			"count": 10,
 			"year": 1970,
 			"shape": "колокольчик",
@@ -676,7 +676,7 @@
 			"year": 1995,
 			"shape": "фигурка",
 			"color": "желтый",
-			"size": "mediun",
+			"size": "средний",
 			"favorite": false
 		}
 	],
@@ -1357,7 +1357,7 @@
 			"year": 1995,
 			"shape": "figurine",
 			"color": "yellow",
-			"size": "mediun",
+			"size": "medium",
 			"favorite": false
 		}
 	]
